@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,629
+Welcome to Slideshow Studio.
+
+2
+00:00:02,659 --> 00:00:13,077
+Create, edit and narrate slide decks — then export them as an MP4 video with natural text-to-speech narration.
+
+3
+00:00:13,107 --> 00:00:28,084
+• Import PPTX, PDF, HTML, TXT — or a folder of photos • Guided pipeline: Import → Narrate → Preview → Export • Quick convert (Ctrl+M): input files straight to
+
+4
+00:00:28,114 --> 00:00:40,147
+MP4 • Rich-text (HTML) bodies + layout templates • Ken Burns motion + per-slide transitions • Voices: edge-tts, Piper (offline)
+
+5
+00:00:40,177 --> 00:00:48,600
+Qwen TTS • Smart TTS text cleaning (emoji, URLs, markdown) • Input, output & temp folders
+
+6
+00:00:48,630 --> 00:01:02,942
+professionally managed • Subtitles: .srt file or burned into the video • Video overlays: slide numbers, progress bar, watermark • Undo / redo, autosave
+
+7
+00:01:02,972 --> 00:01:18,044
+drag & drop import • Present fullscreen (F6) with notes (N) · Rehearse timings • Script mode: edit the whole deck as text (Ctrl+Shift+T) • Export MP4, MP3, WAV
+
+8
+00:01:18,074 --> 00:01:20,418
+HTML, PDF handout or PPTX
+
+9
+00:01:21,148 --> 00:01:29,136
+Rich text body. Bodies support a safe HTML subset: italic, underline, colours and lists.
+
+10
+00:01:29,166 --> 00:01:40,798
+• Bullet one • Bullet two Edit the HTML source directly from the view picker, or export the deck as a standalone HTML slideshow.
+
+11
+00:01:41,528 --> 00:01:52,344
+Getting started. 1. Import (Ctrl+I) or drop a file on the window — the pipeline bar above the canvas tracks your progress. 2.
+
+12
+00:01:52,374 --> 00:01:57,289
+Edit text in the right panel — Ctrl+Z undoes mistakes. 3.
+
+13
+00:01:57,319 --> 00:02:01,107
+Add motion (zoom / pan) in the Slide tab. 4.
+
+14
+00:02:01,137 --> 00:02:04,230
+Press ▶ to preview the narration. 5.
+
+15
+00:02:04,260 --> 00:02:11,692
+Export (Ctrl+E) — or press Ctrl+M to go straight from an input file to a finished MP4.
+
+16
+00:02:11,722 --> 00:02:16,898
+This slide deck can be deleted — right-click it in the list.

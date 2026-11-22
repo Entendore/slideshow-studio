@@ -1,0 +1,56 @@
+# Meet Slideshow Studio
+
+Turn any outline into a narrated video.
+
+Write slides as plain text, pick a voice,
+and export an MP4 with natural speech.
+
+~ Welcome to Slideshow Studio. This quick tour shows how a simple text
+file becomes a fully narrated video.
+
+---
+
+## Draft in text
+
+Type your deck in any editor.
+
+A hash starts a slide, blank lines split
+paragraphs, and tilde lines become narration.
+
+~ Everything you see on this slide was written in a plain text file.
+No layout tools needed for a first draft.
+
+---
+
+## Refine in the studio
+
+Import, then polish.
+
+Edit rich text, apply layout templates,
+add Ken Burns motion and per-slide voices.
+
+~ Once imported, the deck is fully editable. Change the wording, tune
+the motion, or give a single slide its own voice and speed.
+
+---
+
+## Narrate with one click
+
+Choose from hundreds of neural voices.
+
+Edge-tts works online, Piper runs fully offline,
+and the studio remembers your last voice.
+
+~ Narration is generated automatically. Empty slides can borrow their
+text from the slide body with one menu command.
+
+---
+
+## Export anywhere
+
+MP4 video with burned-in or subtitle-file captions,
+audio-only MP3 or WAV, or a standalone web page.
+
+~ When you are happy, export to MP4 for video platforms, MP3 for a
+podcast style release, or HTML to share in a browser. Thanks for
+watching.

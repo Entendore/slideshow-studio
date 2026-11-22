@@ -1,0 +1,9 @@
+PySide6>=6.6
+edge-tts>=6.1
+python-pptx>=0.6.23
+PyMuPDF>=1.24
+beautifulsoup4>=4.12
+
+# Optional TTS engines (not required):
+#   pip install piper-tts      -> local offline Piper voices
+#   Qwen TTS needs no package, only a DashScope API key (enter in the app)
